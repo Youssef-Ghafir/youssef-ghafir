@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Youssef, a passionate web developer from [Your City, Your Country].
+I'm Youssef, a passionate web developer from [Morocco].
 
 🌐 **Portfolio:** [yg-20.netlify.app](https://yg-20.netlify.app/)
 
