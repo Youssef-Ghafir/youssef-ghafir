@@ -25,7 +25,7 @@ I'm Youssef, a passionate web developer from [Morocco].
 
 📊 **GitHub Stats**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=contribs,prs&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Youssef-Ghafir&show_icons=true&hide_title=true&hide=contribs,prs&theme=radical)
 
 🌈 **Random Fun Fact**
 
