@@ -24,7 +24,7 @@ I'm Youssef, a passionate web developer from [Morocco].
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=dev.to&logoColor=white)](https://yg-20.netlify.app/)
 
 📊 **GitHub Stats**
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youssef-Ghafir&show_icons=true&theme=radical)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Youssef-Ghafir&show_icons=true&hide_title=true&hide=contribs,prs&theme=radical)
 
 🌈 **Random Fun Fact**
